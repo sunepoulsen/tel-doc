@@ -13,10 +13,11 @@ repository under the `/doc` folder as Markdown files.
 Documentation that relates to components that goes across repositories will be placed in this repository. This will 
 include:
 
-- Dependencies between components in different repositories
-- General coding decisions for the backend components
+- Overview of each lab or application in the solution.
+- Dependencies between components in different repositories.
+- General coding decisions for the backend components.
 
-The entire frontend is placed in its own repository, so the all documentation for this component will be placed in the 
+The entire frontend is placed in its own repository, so all documentation for this component will be placed in the 
 that repository.
 
 ## Repositories
